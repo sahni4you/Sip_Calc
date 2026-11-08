@@ -3,7 +3,8 @@ This is Sip Calculator ver4 from Acer. On Acer, Copied from Dell Vostro, as it i
 
 ---------------------------------------------------------------
 8-Nov-26         <br>
-(ko Added this Note/text  -->  to be done)        <br>
+
+(ko Added this Note/text  -->  to be done)        <br><br>
 ver 5 -- Needs to be made.         <br>
 Add  -->  Absolute Returns  --  Original Amt, Return Amt, Absolute Return in Percent        <br>
 
